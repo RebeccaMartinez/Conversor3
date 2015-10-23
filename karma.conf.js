@@ -21,8 +21,7 @@ files: [
 // list of files to exclude
 exclude: [
 'gulpfile.js',
-'static-server.js',
-'tests/sinon_test.js'
+'static-server.js'
 ],
 
 // preprocess matching files before serving them to the browser
