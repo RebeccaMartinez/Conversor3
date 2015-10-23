@@ -17,8 +17,9 @@
   "author": "Rebecca",
   "license": "ISC",
   "devDependencies": {
+    "blanket": "^1.1.7",
+    "blanket-node": "^2.0.0",
     "chai": "^3.3.0",
-    "mocha": "^2.3.3",
     "del": "^2.0.2",
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
@@ -33,11 +34,10 @@
     "karma": "0.12.0",
     "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^0.2.1",
+    "karma-cli": "^0.1.1",
     "karma-jasmine": "^0.3.6",
     "karma-mocha": "^0.2.0",
     "karma-ng-html2js-preprocessor": "^0.2.0",
-    "blanket": "^1.1.7",
-    "blanket-node": "^2.0.0"
-
+    "mocha": "^2.3.3"
   }
 }
