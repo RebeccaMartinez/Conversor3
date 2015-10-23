@@ -10,6 +10,39 @@ h1{
   padding-bottom: 3%;
 }
 
+
+button {
+  margin-left: 50%;
+}
+
+.btn {
+  background: #242124;
+  background-image: -webkit-linear-gradient(top, #242124, #4b6270);
+  background-image: -moz-linear-gradient(top, #242124, #4b6270);
+  background-image: -ms-linear-gradient(top, #242124, #4b6270);
+  background-image: -o-linear-gradient(top, #242124, #4b6270);
+  background-image: linear-gradient(to bottom, #242124, #4b6270);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #807d77;
+  background-image: -webkit-linear-gradient(top, #807d77, #8c8c8c);
+  background-image: -moz-linear-gradient(top, #807d77, #8c8c8c);
+  background-image: -ms-linear-gradient(top, #807d77, #8c8c8c);
+  background-image: -o-linear-gradient(top, #807d77, #8c8c8c);
+  background-image: linear-gradient(to bottom, #807d77, #8c8c8c);
+  text-decoration: none;
+  
+}
+
 p{
   padding-left: 15%;
   padding-right: 10%;
