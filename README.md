@@ -2,9 +2,12 @@
 
 En esta práctica se ha realiado un conversor de temperatura en javascript, usando clases y herencias. Además se han realizado tests usando mocha y chai. Tests: BDD. Se ha usado blanket.
 
-Enlace al conversor: [Conversor](http://rebeccamartinez.github.io/ConversorTemperatura_2/)
+Enlace al conversor: [Conversor](http://rebeccamartinez.github.io/Conversor3/)
 
 Enlace a mi Github page: [Rebecca] (http://rebeccamartinez.github.io/)
 
-Github page de las pruebas con blanket: [Pruebas](http://rebeccamartinez.github.io/ConversorTemperatura_2/test/test_blanket)
+Github page de las pruebas con blanket: [Pruebas](http://rebeccamartinez.github.io/Conversor3/tests/test_blanket)
+
+
+[![Build Status](https://travis-ci.org/RebeccaMartinez/Conversor3.svg?branch=master)](https://travis-ci.org/RebeccaMartinez/Conversor3)
 
