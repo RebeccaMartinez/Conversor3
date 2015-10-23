@@ -1,6 +1,11 @@
 # Conversor de Temperatura 3
 
-En esta práctica se ha realiado un conversor de temperatura en javascript, usando clases y herencias. Además se han realizado tests usando mocha y chai. Tests: BDD. Se ha usado blanket.
+En esta práctica se ha realiado un conversor de temperatura en javascript, usando clases y herencias. Además se han realizado tests usando mocha y chai. Tests: BDD. Otras tecnologías usadas:
+
+* blanket
+* Travis
+* Karma
+* Web Worker
 
 Enlace al conversor: [Conversor](http://rebeccamartinez.github.io/Conversor3/)
 
