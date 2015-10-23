@@ -4,7 +4,8 @@
   "description": "conversor de temperatura",
   "main": "temperature.js",
   "scripts": {
-    "test": "open tests/index.html"
+    "test": "open tests/index.html",
+    "karma": "./node_modules/karma/bin/karma start --single-run"
   },
   "repository": {
     "type": "git",
