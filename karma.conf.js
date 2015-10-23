@@ -24,6 +24,7 @@ exclude: [
 'static-server.js',
 'tests/sinon_test.js'
 ],
+
 // preprocess matching files before serving them to the browser
 // available preprocessors: https://npmjs.org/browse/keyword/karma-preprocessor
 preprocessors: {
@@ -45,7 +46,7 @@ logLevel: config.LOG_INFO,
 autoWatch: true,
 // start these browsers
 // available browser launchers: https://npmjs.org/browse/keyword/karma-launcher
-browsers: ['Chorme'],
+browsers: ['Firefox'],
 // Continuous Integration mode
 // if true, Karma captures browsers, runs the tests and exits
 singleRun: false,
